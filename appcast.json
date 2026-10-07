@@ -1,7 +1,7 @@
 {
-  "version": "0.9.1",
-  "build": "202610072314",
-  "url": "https://github.com/Jamss-dev/metal-corsa-releases/releases/download/v0.9.1/Metal-Corsa.zip",
-  "notes": "First closed-beta build of Metal-Corsa.",
+  "version": "0.9.2",
+  "build": "202610080002",
+  "url": "https://github.com/Jamss-dev/metal-corsa-releases/releases/download/v0.9.2/Metal-Corsa.zip",
+  "notes": "Drive! button no longer covers page buttons.",
   "minimumSystemVersion": "14.0"
 }
