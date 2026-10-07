@@ -1,7 +1,7 @@
 {
   "version": "0.9.1",
-  "build": "2",
+  "build": "1",
   "url": "https://github.com/Jamss-dev/metal-corsa-releases/releases/download/v0.9.1/Metal-Corsa.zip",
-  "notes": "First closed-beta build. See the release notes on the GitHub release page.",
+  "notes": "First closed-beta build of Metal-Corsa.",
   "minimumSystemVersion": "14.0"
 }
