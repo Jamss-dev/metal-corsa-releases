@@ -24,7 +24,7 @@ Free closed beta · Apple Silicon · macOS 14+
 
 - Apple Silicon Mac (M1 or newer)
 - macOS 14 Sonoma or later
-- CrossOver, with Assetto Corsa from Steam already working in a bottle
+- CrossOver 25, with Assetto Corsa from Steam already working in a bottle (Custom Shaders Patch doesn't work on CrossOver 26 yet)
 
 Metal-Corsa doesn't include the game or any mods.
 
